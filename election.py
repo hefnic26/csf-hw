@@ -263,3 +263,5 @@ def main():
 # "python election.py" at the command shell), then run the main() function.
 if __name__ == "__main__":
     main()
+    
+print "Yay, victory"
